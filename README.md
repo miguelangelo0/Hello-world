@@ -1,5 +1,6 @@
 # Hello world
  Primeiro Repositório para projetos básicos
  
+<<<<<<< HEAD
 
-Mudanças
+Mudanças de gestão de conflitos
